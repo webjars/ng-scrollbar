@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ng-scrollbar</artifactId>
-    <version>0.0.7-SNAPSHOT</version>
+    <version>0.0.7</version>
     <name>ng-scrollbar</name>
     <description>WebJar for ng-scrollbar</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/ng-scrollbar</url>
         <connection>scm:git:https://github.com/webjars/ng-scrollbar.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ng-scrollbar.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>ng-scrollbar-0.0.7</tag>
     </scm>
     
     <dependencies>
